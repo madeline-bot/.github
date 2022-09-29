@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.madeline.my.id/docs">
+  <a href="https://www.madeline.my.id/">
     <img src="https://img.shields.io/badge/Documentation-00ff00?logoColor=00ff00" />
   </a>
   <a href="https://discord.gg/mxkvjpknTN">
